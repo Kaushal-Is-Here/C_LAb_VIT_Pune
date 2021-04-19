@@ -1,0 +1,1 @@
+//           24. Write a program in C to sort an array using Pointer--pointer arithmetic
